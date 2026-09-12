@@ -8,7 +8,7 @@ Tengo un gran interés en seguir perfeccionando mi teoría y práctica del lado 
 
 ### 👨‍💻 Sobre mí
 - 🌱 Estudiante avanzado de **Tecnicatura Universitaria en Programación Informática** (UNQ).
-- 💼 Experiencia desarrollando y manteniendo módulos para **Historias Clínicas Electrónicas** (Worldsoft Systems).
+- 💼 Experiencia desarrollando y manteniendo módulos para **Historias Clínicas Electrónicas**.
 - 🛡️ Foco en **ciberseguridad**, validación de datos y manejo de permisos.
 - 🤖 Uso proactivo de **Desarrollo Asistido por IA** (Claude, LLMs) y Prompt Engineering para optimizar y testear código.
 - 🌍 Nivel de Inglés: **Intermedio (B2)**.
